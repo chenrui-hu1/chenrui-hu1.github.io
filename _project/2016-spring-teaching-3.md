@@ -2,7 +2,7 @@
 title: "Distributed Search Engine"
 collection: COURSE PROJECT FOR CIS 555 INTERNET & WEB SYSTEMS @PENN
 type: "This is a class project for CIS 555 Internet & Web Systems (Spring 2021) at University of Pennsylvania."
-permalink: /teaching/2024-spring
+permalink: /project/2024-spring
 venue: "University Of Pennsylvania, CIS"
 date: 2024-01-01
 location: "Philadelphia, PA"
