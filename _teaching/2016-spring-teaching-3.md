@@ -4,11 +4,13 @@ collection: COURSE PROJECT FOR CIS 555 INTERNET & WEB SYSTEMS @PENN
 type: "This is a class project for CIS 555 Internet & Web Systems (Spring 2021) at University of Pennsylvania."
 permalink: /teaching/2024-spring
 venue: "University Of Pennsylvania, CIS"
-date: 2021-01-01
+date: 2024-01-01
 location: "Philadelphia, PA"
 ---
 
 My team built a distributed search engine, with 4 components:
+
+
 Crawler
 ======
 
@@ -30,5 +32,3 @@ Search engine & UI is built with React.js for the front-end, Spark Java for the 
 ---
 
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/CIS555.png'>"
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
