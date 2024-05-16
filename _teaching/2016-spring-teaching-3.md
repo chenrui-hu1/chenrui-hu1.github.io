@@ -27,3 +27,8 @@ Search engine & UI
 ======
 Search engine & UI is built with React.js for the front-end, Spark Java for the back-end. Given a query, the search engine retrieves documents all query terms appear in from the inverted index table, and rank them using TF-IDF and PageRank score to be displayed as the results page.
 
+---
+
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/CIS555.png'>"
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
