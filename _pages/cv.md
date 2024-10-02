@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 
+* B.S. in Electronic and Computer Engineering, University of Glasgow, 2021 -2023
 * M.S. in Computer Information Science, University of Pennsylvania, 2023 - Present
 * M.S. in Electronic Engineering, University of Pennsylvania, 2021 -2023
 
