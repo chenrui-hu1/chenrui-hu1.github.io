@@ -1,10 +1,12 @@
 ---
-title: "Cloud-based Distributed Search Engine"
-date: 2023-05-01
-excerpt: "Built the Cloud-based Distributed Search Engine in a team of four. <br/><img src='/images/portforlio/web-search-engine/main-page.png' width='60%'>"
-location: "University of Pennsylvania"
-collection: portfolio
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 
 _This is a course project for CIS555 Internet & Web System(Spring 2023) at University of Pennsylvania._
